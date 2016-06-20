@@ -2,6 +2,25 @@
 
 A curated list about generative art!
 
+*   [Software](#software)
+
+---
+
+## Software
+
+*   [Processing](https://processing.org/)
+
+*   [ProcessingJS](http://processingjs.org/) - Port of Processing in JS
+
+*   [p5.js](http://p5js.org/)
+
+*   [Nodebox 3](https://www.nodebox.net/node/) - Python based alternatives to
+    Processing
+
+*   [vvvv](https://vvvv.org/) - A multipurpose toolkit
+
+---
+
 ## Contributing
 
 Found an awesome package, article, blog, video etc.?
