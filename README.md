@@ -19,6 +19,10 @@ A curated list about generative art!
 
 *   [vvvv](https://vvvv.org/) - A multipurpose toolkit
 
+### L-Systems
+
+*   [benvan/lsys](https://github.com/benvan/lsys)
+
 ---
 
 ## Contributing
