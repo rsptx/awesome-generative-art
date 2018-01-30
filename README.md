@@ -3,6 +3,7 @@
 A curated list about generative art!
 
 *   [Software](#software)
+*   [Tips](#tips)
 
 ---
 
@@ -24,6 +25,10 @@ A curated list about generative art!
 ### L-Systems
 
 *   [benvan/lsys](https://github.com/benvan/lsys)
+
+## Tips
+
+*   [Tips to improve your generative artwork](http://www.tylerlhobbs.com/writings/tips)
 
 ---
 
