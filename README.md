@@ -16,6 +16,7 @@ A curated list about generative art!
 *   [Nodebox 3](https://www.nodebox.net/node/) - Python based alternatives to Processing
 *   [vvvv](https://vvvv.org/) - A multipurpose toolkit
 *   [centiscript](http://ex.rzm.co.jp/centiscript/)
+*   [Chromata](https://www.michaelbromley.co.uk/experiments/chromata/#)
 
 ### L-Systems
 
