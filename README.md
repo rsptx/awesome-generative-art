@@ -4,7 +4,7 @@ A curated list about generative art!
 
 *   [Software](#software)
 *   [Tips](#tips)
-*   [Blogs](#blogs
+*   [Blogs](#blogs)
 *   [Portfolios](#portfolios)
 
 ---
