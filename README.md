@@ -4,6 +4,7 @@ A curated list about generative art!
 
 *   [Software](#software)
 *   [Tips](#tips)
+*   [Blogs](#blogs
 *   [Portfolios](#portfolios)
 
 ---
@@ -25,6 +26,10 @@ A curated list about generative art!
 ## Tips
 
 *   [Tips to improve your generative artwork](http://www.tylerlhobbs.com/writings/tips)
+
+## Blogs
+
+*   [Generative Artistry](https://generativeartistry.com/)
 
 ## Portfolios
 
